@@ -1,5 +1,7 @@
 <section id="distributed-systems-large-assignment-1" class="content">
 <h1>Distributed Systems Large Assignment 1</h1>
+This project was created as a solution to the 1st assignment for the "Distributed systems" course at the University of Warsaw.
+
 <h3 id="executor-system">Executor system</h3>
 <p>Your task is to implement an executor system supporting arbitrary user-provided types of modules and messages. The solution shall take the form of a library, and follow the asynchronous programming paradigm. A template and public tests are provided in <a href="./dsassignment1.tgz">this package</a>.</p>
 <h3 id="executor-system-specification">Executor system specification</h3>
